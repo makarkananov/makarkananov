@@ -1,4 +1,4 @@
-@portisch_barrel
+Hi! 
 =====================================================================================================================================
 ---
 19 y.o | ITMO University SE 2nd year student | Grinder
@@ -24,3 +24,4 @@
 </p>
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=makarkananov)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
