@@ -1,23 +1,10 @@
 Hi! 
 =====================================================================================================================================
 ---
-19 y.o | ITMO University SE 2nd year student | Grinder
+20 y.o | ITMO University SE 3nd year student
 
 * 🌍  I'm based in Saint Petersburg
-* 🏛️  Studying in Tinkoff Backend Academy
 * ✉️  You can contact me at [makarkananov@gmail.com](mailto:makarkananov@gmail.com)
-
----
-### Skills
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-<img src="https://logowik.com/content/uploads/images/redis.jpg" width="36" height="36" alt="Redis" />
-<img src="https://seeklogo.com/images/C/clickhouse-logo-653663F866-seeklogo.com.png" width="36" height="36" alt="Clickhouse" />
-<img src="https://grpc.io/img/logos/grpc-icon-color.png" width="36" height="36" alt="gRPC" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png" width="36" height="36" alt="Kafka" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-</p>
 
 ---
 ### Socials
